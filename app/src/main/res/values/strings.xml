@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDiscovery</string>
+
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_popular">Most Popular</string>
+    <string name="menu_highest_rates">Highest Rated</string>
+</resources>
